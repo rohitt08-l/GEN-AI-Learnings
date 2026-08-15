@@ -70,7 +70,7 @@ Then it generates human-like responses.
 - Emails
 - Reports
 
-## 3. Code Generation
+## 3. Code Generation 
 - AI coding assistants
 - Auto debugging
 - Documentation generation
@@ -87,7 +87,7 @@ Then it generates human-like responses.
 
 ---
 
-# Advantages of Generative AI
+# Advantages of Generative AI 
 
 - Automates repetitive tasks
 - Saves time
@@ -97,7 +97,7 @@ Then it generates human-like responses.
 
 ---
 
-# Limitations of Generative AI
+# Limitations of Generative AI 
 
 - Can generate incorrect information
 - Hallucinations
@@ -107,7 +107,7 @@ Then it generates human-like responses.
 
 ---
 
-# Important Terms
+# Important Terms 
 
 | Term | Meaning |
 |---|---|

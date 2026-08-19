@@ -38,7 +38,6 @@ Unlike traditional AI systems that mainly classify or predict data, Generative A
 ---
 
 # How Generative AI Works
-
 Generative AI models learn patterns from huge datasets.
 
 Example:
@@ -59,7 +58,6 @@ Then it generates human-like responses.
 ---
 
 # Applications of Generative AI
-
 ## 1. Chatbots
 - Customer support
 - AI assistants
